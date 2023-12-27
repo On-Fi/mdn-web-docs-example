@@ -1,8 +1,24 @@
 /* the selector is html so every declaration inside the curly braces {} is set for the whole html page */
 html {
   font-size: 15px; /* px means "pixels": the base font size is now 15 pixels high */
-  font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+  font-family: "Open Sans", sans-serif; /* this set the fonts from Google Fonts */
+  background-color: #00539f; /* This sets the element's background color*/
 }
+
+/* the whole body */
+body {
+  width: 600px; /* This forces the body to always be 600 pixels wide */
+  margin: 0 auto; 
+  background-color: #ff9500; /* This sets the element's background color*/
+  padding: 0 20px 20px 20px;
+  border: 5px solid black; /*This sets values for the width, style and color of the border. 
+  In this case, it's a five-pixel–wide, solid black border, on all sides of the body*/
+  }
+  /* When you set two values on a property like margin or padding, 
+  the first value affects the element's top and bottom side (setting it to 0 in this case); 
+  the second value affects the left and right side. 
+  (Here, auto is a special value that divides the available horizontal space evenly between left and right) ./
+
 
 /* headline */
 h1 {
