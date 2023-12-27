@@ -1,4 +1,19 @@
+/* the selector is html so every declaration inside the curly braces {} is set for the whole html page */
 html {
   font-size: 15px; /* px means "pixels": the base font size is now 15 pixels high */
   font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+}
+
+/* headline */
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+/* all paragraphs and all list items*/
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
 }

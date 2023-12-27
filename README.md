@@ -4,6 +4,7 @@ Comments in:
 - HTML = <!-- exsample text --> 
 - CSS = /* exsample text */
 - JavaScript
+--
 
 Notes:
 - HTML (HyperText Markup Language)
@@ -13,3 +14,9 @@ HTML is a markup language that defines the structure of your content. HTML consi
 
 - CSS (Cascading Style Sheets)
 CSS is the code that styles web content. Like HTML, CSS is not a programming language. It's not a markup language either. CSS is a style sheet language. CSS is what you use to selectively style HTML elements.
+
+CSS layout is mostly based on the box model. Each box taking up space on your page has properties like:
+
+padding, the space around the content. In the example below, it is the space around the paragraph text.
+border, the solid line that is just outside the padding.
+margin, the space around the outside of the border.
