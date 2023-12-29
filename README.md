@@ -3,7 +3,7 @@
 Comments in:
 - HTML = <!-- exsample text --> 
 - CSS = /* exsample text */
-- JavaScript // exsample text
+- JavaScript /* Everything in between is a comment. */ and // exsample text 
 --
 
 Notes:
