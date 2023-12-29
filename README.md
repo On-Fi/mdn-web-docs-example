@@ -1,7 +1,7 @@
 # I followed the mdn web docs_ tutorial for strengthen my web knowledge
 
 Comments in:
-- HTML = <!-- exsample text --> 
+- HTML = <!-- exsample text --+> 
 - CSS = /* exsample text */
 - JavaScript /* Everything in between is a comment. */ and // exsample text 
 --
