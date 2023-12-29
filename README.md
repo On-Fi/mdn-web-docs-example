@@ -1,7 +1,7 @@
 # I followed the mdn web docs_ tutorial for strengthen my web knowledge
 
 Comments in:
-- HTML = <!-- exsample text --+>   (without the + inside the -->)
+- HTML = <!-- exsample text --+>   (without the +)
 - CSS = /* exsample text */
 - JavaScript /* Everything in between is a comment. */ and // exsample text 
 --
@@ -18,5 +18,4 @@ CSS is the code that styles web content. Like HTML, CSS is not a programming lan
 
 
 - JavaScript
-JavaScript is a powerful programming language that can add interactivity to a website. It was invented by Brendan Eich.
-
+JavaScript is a powerful programming language that can add interactivity to a website. This happens in games, in the behavior of responses when buttons are pressed or with data entry on forms; with dynamic styling; with animation, etc. It was invented by Brendan Eich.
