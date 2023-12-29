@@ -1,6 +1,6 @@
 // This function document.querySelector is built into the browser.
-const myHeading = document.querySelector("h1");
-myHeading.textContent = "Hello world!";
+// const myHeading = document.querySelector("h1");
+// myHeading.textContent = "Hello world!";
 
 // This function alert is built into the browser.
 // alert("Welcome!");
