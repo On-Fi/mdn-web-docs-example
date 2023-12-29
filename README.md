@@ -1,9 +1,9 @@
-I followed the mdn web docs_ tutorial for strengthen my web knowledge
+# I followed the mdn web docs_ tutorial for strengthen my web knowledge
 
 Comments in:
 - HTML = <!-- exsample text --> 
 - CSS = /* exsample text */
-- JavaScript
+- JavaScript // exsample text
 --
 
 Notes:
@@ -20,3 +20,8 @@ CSS layout is mostly based on the box model. Each box taking up space on your pa
 padding, the space around the content. In the example below, it is the space around the paragraph text.
 border, the solid line that is just outside the padding.
 margin, the space around the outside of the border.
+
+
+- JavaScript
+JavaScript is a powerful programming language that can add interactivity to a website. It was invented by Brendan Eich.
+
